@@ -1,0 +1,12 @@
+type: marketplace
+title: Palindrome Checker
+language: English
+summary: "The goal of this project is to create a Python program that will check whether\
+  \ a given word or phrase is a palindrome or not. A palindrome is a word, phrase,\
+  \ or sequence of characters that reads the same backward as forward."
+vendor:
+  name: Mahmoud Ahmed
+programming_language: Python
+environment: unittest
+content:
+- lesson1
